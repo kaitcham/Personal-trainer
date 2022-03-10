@@ -32,7 +32,7 @@
   border: 3px solid #fff;
 }
 
-.intro P:last-child {
+.intro p:last-child {
   color: #fff;
   font-style: italic;
   font-weight: bolder;
@@ -41,6 +41,7 @@
 .details {
   padding: 30px 15px;
 }
+
 .about-details-container {
   display: flex;
   flex-direction: column;
