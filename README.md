@@ -51,7 +51,7 @@ set up on github pages
 
 ## Authors
 
-👤 **Max The Stranger**
+👤 **Kait Cham**
 
 - GitHub: [@kaitcham](https://github.com/kaitcham)
 - Twitter: [@kaitcham](https://twitter.com/kaitcham)
