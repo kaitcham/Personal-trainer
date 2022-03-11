@@ -40,6 +40,42 @@ const specialistArray = [
     descr:
       'He is an experienced nutritionist , Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, modi. Lorem ipsum dolor sit',
   },
+  {
+    id: 3,
+    name: 'Julia',
+    image: './images/julia.png',
+    alt: 'featured speaker image',
+    intro: 'Person trainer with over 7years of experience',
+    descr:
+      'He is an experienced trainer, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, modi.',
+  },
+  {
+    id: 4,
+    name: 'Reagan',
+    image: './images/reagan.png',
+    alt: 'featured speaker image',
+    intro: 'Nutritionist with over 12years of experience',
+    descr:
+      'He is an experienced nutritionist , Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, modi. Lorem ipsum dolor sit',
+  },
+  {
+    id: 5,
+    name: 'Yochai',
+    image: './images/yochai.png',
+    alt: 'featured speaker image',
+    intro: 'Person trainer with over 7years of experience',
+    descr:
+      'He is an experienced trainer, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, modi.',
+  },
+  {
+    id: 6,
+    name: 'Lila',
+    image: './images/lila.png',
+    alt: 'featured speaker image',
+    intro: 'Nutritionist with over 12years of experience',
+    descr:
+      'He is an experienced nutritionist , Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, modi. Lorem ipsum dolor sit',
+  },
 ];
 
 const speakerCard = document.querySelector('.featured-container');

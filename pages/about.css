@@ -11,7 +11,7 @@
   flex-direction: column;
   justify-content: center;
   padding: 15px;
-  min-height: 100vh;
+  min-height: calc(100vh - 100px);
 }
 
 .intro {
@@ -35,7 +35,6 @@
 .intro p:last-child {
   color: #fff;
   font-style: italic;
-  font-weight: bolder;
 }
 
 .details {
@@ -123,7 +122,28 @@
   margin: 0;
 }
 
+.partners {
+  background-color: #393c43b3;
+}
+
+.footer-container {
+  background-color: #3f444f;
+}
+
 @media all and (min-width: 768px) {
+  .intro {
+    width: 50%;
+    text-align: center;
+  }
+
+  .intro p:last-child {
+    font-size: 16px;
+  }
+
+  .intro p span {
+    text-decoration: underline;
+  }
+
   .past-training-container {
     width: 80%;
     margin: 0 auto;
